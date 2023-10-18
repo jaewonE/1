@@ -14,3 +14,6 @@
  
   * CRNN : 음성의 시계열적인 면을 활용하되 멜 스펙트로그램의 이미지적 특정을 적극 활용한 CRNN 모델을 적용 : 84%의 정확도를 보임.
 
+### 7주차
+
+* https://positive-drawer-df8.notion.site/10-18-c9f22724aacc4477bbdb0d447f7741e0
